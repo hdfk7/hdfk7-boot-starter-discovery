@@ -1,4 +1,4 @@
-package com.hdfk7.boot.starter.discovery.listener;
+package cn.hdfk7.boot.starter.discovery.listener;
 
 import cn.hutool.core.util.ReflectUtil;
 import com.alibaba.nacos.api.naming.listener.Event;

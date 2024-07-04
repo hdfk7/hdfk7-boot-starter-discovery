@@ -1,4 +1,4 @@
-package com.hdfk7.boot.starter.discovery.listener;
+package cn.hdfk7.boot.starter.discovery.listener;
 
 import com.alibaba.nacos.api.naming.listener.Event;
 import com.alibaba.nacos.api.naming.listener.NamingEvent;
