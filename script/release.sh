@@ -13,7 +13,7 @@ export jar="${module}-${version}.jar"
 export javadoc="${module}-${version}-javadoc.jar"
 export sources="${module}-${version}-sources.jar"
 
-mvn clean package
+mvn clean install
 mkdir -p "${path}"
 mkdir -p "${publishing}"
 cp pom.xml "${path}/${pom}"
