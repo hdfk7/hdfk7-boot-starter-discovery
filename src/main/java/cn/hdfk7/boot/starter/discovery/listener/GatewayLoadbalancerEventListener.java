@@ -16,6 +16,7 @@ public class GatewayLoadbalancerEventListener extends AbstractLoadbalancerEventL
     @Override
     public void onEvent(Event event) {
         if (event instanceof NamingEvent e) {
+            super.onEvent(event);
             applicationEventPublisher.publishEvent(new RefreshRoutesEvent(e));
         }
     }
