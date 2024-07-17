@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>hdfk7-boot-starter-discovery</artifactId>
-    <version>1.0.7-SNAPSHOT</version>
+    <version>1.0.8-SNAPSHOT</version>
     <name>hdfk7-boot-starter-discovery</name>
     <url>https://blog.csdn.net/qq_37157160/article/details/104988331</url>
     <description>
