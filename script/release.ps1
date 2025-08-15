@@ -1,5 +1,5 @@
 $module = "hdfk7-boot-starter-discovery"
-$version = "1.1.0"
+$version = "1.1.1"
 
 $work = Get-Location
 $target = "target"
