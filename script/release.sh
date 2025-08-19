@@ -1,7 +1,7 @@
 #!/bin/bash -ile
 
 export module=hdfk7-boot-starter-discovery
-export version=1.1.1
+export version=1.1.2
 
 work=$(pwd)
 export target="target"
